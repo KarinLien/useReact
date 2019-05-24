@@ -342,6 +342,7 @@ class App extends Component {
             <div style={style(this.state.Step2)}>STEP2</div>
             <div style={style(this.state.Step3)}>STEP3</div>
           </div>
+          <p>STEP4</p>
         </div>
       </div>
     );
