@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": 1, "name": "mike", "phone": "010-1111-121" },
+    { "id": 2, "name": "json", "phone": "-010-1121-221" }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}
